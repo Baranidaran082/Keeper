@@ -1,7 +1,7 @@
 # 🗒️ QuickNote – A Simple React Notes App
 
-![QuickNote App Screenshot](![image](https://github.com/user-attachments/assets/afb6650e-4243-4f79-ad28-69cf1e1f3df6)
-)
+![QuickNote](https://github.com/user-attachments/assets/e91389ce-5d11-49e8-bf06-103870b15a39)
+
 
 ## 📌 Overview
 
