@@ -20,10 +20,10 @@ Keeper App is a lightweight note-taking application built with React.js, inspire
 
 ## ✨ Key Features
 
-- 📝 Create new notes instantly
-- 🗑️ Delete unwanted notes with a click
-- ⚛️ Uses React hooks (`useState`)
-- 🔄 Components: Header, Footer, Note, CreateArea
-- 🎯 Focused on simplicity and responsiveness
+-  Create new notes instantly
+-  Delete unwanted notes with a click
+-  Uses React hooks (`useState`)
+-  Components: Header, Footer, Note, CreateArea
+-  Focused on simplicity and responsiveness
 
 ---
